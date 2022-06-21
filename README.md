@@ -1,9 +1,13 @@
-# Digit Recognizer
-### Building a Neural Network from Scratch (no Tensorflow/Pytorch, just numpy &amp; math)
+# Handwritten Digit Recognition
+#### Building a Neural Network from Scratch (no Tensorflow/Pytorch, just numpy &amp; math)
 
 ## General Overview
-During this semester, I have had some experience with Python and machine learning basics, but I am still new to computer vision. This project was a perfect introduction to techniques like artificial neural networks (ANN) using a classic dataset including pre-extracted features.
+During this semester, I have learnt some interesting topics, such as the **Artificial Neural Networks**. I have had some experience with Python and machine learning basics, but I am still new to computer vision. Building this project from scratch was a perfect introduction to _**Computer Vision**_ using artificial neural networks (ANN).
 
+## What is Handwritten Digit Recognition?
+The handwritten digit recognition is the ability of computers to recognize human handwritten digits. It is a hard task for the machine because handwritten digits are not perfect and can be made with many different flavors. The handwritten digit recognition is the solution to this problem which uses the image of a digit and recognizes the digit present in the image.
+
+<hr />
 I have made a PowerPoint presentation showing everything in detail. Take a look at if you want to make grasp the concept better :point_down:
 <br />
 :link: https://mega.nz/file/ilMmwajB#cvxWlmGEu969mOb8pTbj7WxT9hL4QTJ8UVK11OOs9i0
