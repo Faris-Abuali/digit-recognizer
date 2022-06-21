@@ -4,6 +4,10 @@
 ## General Overview
 During this semester, I have had some experience with Python and machine learning basics, but I am still new to computer vision. This project was a perfect introduction to techniques like artificial neural networks (ANN) using a classic dataset including pre-extracted features.
 
+I have made a PowerPoint presentation showing everything in detail. Take a look at if you want to make grasp the concept better :point_down:
+:link: https://mega.nz/file/ilMmwajB#cvxWlmGEu969mOb8pTbj7WxT9hL4QTJ8UVK11OOs9i0
+
+
 ## 1. Problem Statement & Objective
 * My goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
 * The dataset is provided by: MNIST ("Modified National Institute of Standards and Technology"). It is one of the most popular datasets of computer vision.
