@@ -18,24 +18,19 @@ During this semester, I have had some experience with Python and machine learnin
 ## Math Explanation
 I implemented a two-layer neural artificial network and trained it on the MNIST digit recognizer dataset. It’s meant to be implemented from scratch in Pyton using only numpy library – to deal with lists/matrices – and basic math. This helped me understand the underlying math of neural networks better.
 
+<figure>
+  <img width="243" alt="image" src="https://user-images.githubusercontent.com/54215462/174851614-8d6883d9-e8ce-4b54-81c7-02a1fab6eadd.png">
+   <figcaption align = "center">The neural network’s input will be a 28px*28px black & white image. This means each image should be represented as a matrix of 28*28 = 784px</figcaption>
+</figure>
 
-<img width="243" alt="image" src="https://user-images.githubusercontent.com/54215462/174851614-8d6883d9-e8ce-4b54-81c7-02a1fab6eadd.png">
-Figure: The neural network’s input will be a 28px*28px black & white image. This means each image should be represented as a matrix of 28*28 = 784px
+<figure>
+  <img width="385" alt="image" src="https://user-images.githubusercontent.com/54215462/174851381-dfcccca0-b0a7-4f4b-9045-0d03e2af402b.png">
+  
+  <figcaption align = "center">My neural network will have the following architecture</figcaption>
+</figure>
 
-
-
-
-<img width="385" alt="image" src="https://user-images.githubusercontent.com/54215462/174851381-dfcccca0-b0a7-4f4b-9045-0d03e2af402b.png">
-Figure: My neural network will have the following architecture
+My neural network will have the following architecture
 * Input layer will have 784 units/neurons corresponding to the 784 pixels in each 28x28 input image 
 * One Hidden layer with 10 neurons
 * Output layer with 10 output units (because there will be 10 possible classifications from 0,..9)
 
-
-
-<p align = "center">
-<img src = "https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg">
-</p>
-<p align = "center">
-Fig.1 - 4K Mountains Wallpaper
-</p>
