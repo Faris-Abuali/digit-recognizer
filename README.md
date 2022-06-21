@@ -43,6 +43,7 @@ My neural network will have the following architecture
 ## 3. Coding it up
 Here is a glimpse of the training set used to train our neural network:
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/54215462/174854320-072646ef-41f3-4acb-8d41-2ca0fab80dc7.png">
+<br />
 You can chick out the file `code.py` for the complete code :grinning:
 
 ## 4. Results
@@ -53,9 +54,6 @@ You can chick out the file `code.py` for the complete code :grinning:
 ...
 <img width="602" alt="image" src="https://user-images.githubusercontent.com/54215462/174854911-9061c8c7-60f1-4cec-abfc-dd1817e08739.png">
 <img width="603" alt="image" src="https://user-images.githubusercontent.com/54215462/174854942-bd72217f-0549-4429-b59a-d0c5ce4f72b0.png">
-
-
-<img width="464" alt="image" src="https://user-images.githubusercontent.com/54215462/174854998-64057c95-0318-47ad-8094-1ae444824682.png">
 
 
 
