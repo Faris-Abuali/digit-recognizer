@@ -20,14 +20,13 @@ I implemented a two-layer neural artificial network and trained it on the MNIST 
 
 
 <img width="243" alt="image" src="https://user-images.githubusercontent.com/54215462/174851614-8d6883d9-e8ce-4b54-81c7-02a1fab6eadd.png">
-__Figure:__ The neural network’s input will be a 28px*28px black & white image. This means each image should be represented as a matrix of 28*28 = 784px
-
-
+Figure: The neural network’s input will be a 28px*28px black & white image. This means each image should be represented as a matrix of 28*28 = 784px
+____________________________________________________________
 
 
 
 <img width="385" alt="image" src="https://user-images.githubusercontent.com/54215462/174851381-dfcccca0-b0a7-4f4b-9045-0d03e2af402b.png">
-__Figure:__ My neural network will have the following architecture
+Figure: My neural network will have the following architecture
 * Input layer will have 784 units/neurons corresponding to the 784 pixels in each 28x28 input image 
 * One Hidden layer with 10 neurons
 * Output layer with 10 output units (because there will be 10 possible classifications from 0,..9)
