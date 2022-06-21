@@ -79,3 +79,5 @@ You can check out the file `code.py` for the complete code :grinning:
 
 
 And that's it. If you found this repository interesting, kindly give it a star :star2::wink:
+
+:horse_racing::horse_racing::horse_racing::horse_racing:
