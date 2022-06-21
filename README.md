@@ -44,7 +44,7 @@ My neural network will have the following architecture
 Here is a glimpse of the training set used to train our neural network:
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/54215462/174854320-072646ef-41f3-4acb-8d41-2ca0fab80dc7.png">
 <br />
-You can chick out the file `code.py` for the complete code :grinning:
+You can check out the file `code.py` for the complete code :grinning:
 
 ## 4. Results
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/54215462/174854726-60f6e1d0-9153-46a9-8162-565b99dc98d0.png">
