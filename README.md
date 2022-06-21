@@ -5,6 +5,7 @@
 During this semester, I have had some experience with Python and machine learning basics, but I am still new to computer vision. This project was a perfect introduction to techniques like artificial neural networks (ANN) using a classic dataset including pre-extracted features.
 
 I have made a PowerPoint presentation showing everything in detail. Take a look at if you want to make grasp the concept better :point_down:
+<br />
 :link: https://mega.nz/file/ilMmwajB#cvxWlmGEu969mOb8pTbj7WxT9hL4QTJ8UVK11OOs9i0
 
 
@@ -71,3 +72,6 @@ You can check out the file `code.py` for the complete code :grinning:
 <img width="177" alt="image" src="https://user-images.githubusercontent.com/54215462/174855364-d02c5c50-a449-4caa-a18d-0acfc830aabc.png">
 <img width="606" alt="image" src="https://user-images.githubusercontent.com/54215462/174855433-69381952-a3d4-498e-b331-cf2545d4c016.png">
 
+
+
+And that's it. If you found this repository interesting, kindly give it a star :star2::wink:
