@@ -21,7 +21,7 @@ I implemented a two-layer neural artificial network and trained it on the MNIST 
 
 <img width="243" alt="image" src="https://user-images.githubusercontent.com/54215462/174851614-8d6883d9-e8ce-4b54-81c7-02a1fab6eadd.png">
 Figure: The neural network’s input will be a 28px*28px black & white image. This means each image should be represented as a matrix of 28*28 = 784px
-____________________________________________________________
+
 
 
 
@@ -32,3 +32,10 @@ Figure: My neural network will have the following architecture
 * Output layer with 10 output units (because there will be 10 possible classifications from 0,..9)
 
 
+
+<p align = "center">
+<img src = "https://c4.wallpaperflare.com/wallpaper/382/758/444/turkey-dreams-of-cappadocia-avanos-nevsehir-wallpaper-preview.jpg">
+</p>
+<p align = "center">
+Fig.1 - 4K Mountains Wallpaper
+</p>
